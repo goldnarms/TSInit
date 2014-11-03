@@ -1,0 +1,30 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "jquery/jquery.d.ts": {
+      "commit": "5b53994f10bd48a366d6c784e0f32f6ca15dd563"
+    },
+    "angularjs/angular.d.ts": {
+      "commit": "5b53994f10bd48a366d6c784e0f32f6ca15dd563"
+    },
+    "mapbox/mapbox.d.ts": {
+      "commit": "5b53994f10bd48a366d6c784e0f32f6ca15dd563"
+    },
+    "d3/d3.d.ts": {
+      "commit": "5b53994f10bd48a366d6c784e0f32f6ca15dd563"
+    },
+    "bootstrap/bootstrap.d.ts": {
+      "commit": "5b53994f10bd48a366d6c784e0f32f6ca15dd563"
+    },
+    "underscore/underscore.d.ts": {
+      "commit": "5b53994f10bd48a366d6c784e0f32f6ca15dd563"
+    },
+    "leaflet/leaflet.d.ts": {
+      "commit": "5b53994f10bd48a366d6c784e0f32f6ca15dd563"
+    }
+  }
+}
